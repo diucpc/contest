@@ -34,6 +34,14 @@
 		2063080523FC1BDF00877A52 /* sort__insertion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__insertion.h; sourceTree = "<group>"; };
 		2063080623FC1D3800877A52 /* sort__selection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__selection.h; sourceTree = "<group>"; };
 		2063080723FC1E7600877A52 /* sort__bubble.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__bubble.h; sourceTree = "<group>"; };
+		2063080823FC205500877A52 /* sort__merge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__merge.h; sourceTree = "<group>"; };
+		2063080923FC231800877A52 /* string_sort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = string_sort.h; sourceTree = "<group>"; };
+		2063080A23FC2A1600877A52 /* segment_tree__build.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = segment_tree__build.h; sourceTree = "<group>"; };
+		2063080B23FC2AE100877A52 /* segment_tree__update.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = segment_tree__update.h; sourceTree = "<group>"; };
+		2063080D23FC2BFF00877A52 /* segment_tree__query.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = segment_tree__query.h; sourceTree = "<group>"; };
+		2063080E23FC45BC00877A52 /* huffman.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = huffman.h; sourceTree = "<group>"; };
+		2063080F23FC474100877A52 /* bfs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bfs.h; sourceTree = "<group>"; };
+		2063081023FC48C100877A52 /* dfs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dfs.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +84,14 @@
 				2063080523FC1BDF00877A52 /* sort__insertion.h */,
 				2063080623FC1D3800877A52 /* sort__selection.h */,
 				2063080723FC1E7600877A52 /* sort__bubble.h */,
+				2063080823FC205500877A52 /* sort__merge.h */,
+				2063080923FC231800877A52 /* string_sort.h */,
+				2063080A23FC2A1600877A52 /* segment_tree__build.h */,
+				2063080B23FC2AE100877A52 /* segment_tree__update.h */,
+				2063080D23FC2BFF00877A52 /* segment_tree__query.h */,
+				2063080E23FC45BC00877A52 /* huffman.h */,
+				2063080F23FC474100877A52 /* bfs.h */,
+				2063081023FC48C100877A52 /* dfs.h */,
 			);
 			path = Template;
 			sourceTree = "<group>";
