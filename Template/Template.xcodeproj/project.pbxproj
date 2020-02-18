@@ -31,6 +31,9 @@
 		2063080223FC116C00877A52 /* gcd.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = gcd.h; sourceTree = "<group>"; };
 		2063080323FC120E00877A52 /* lcm.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lcm.h; sourceTree = "<group>"; };
 		2063080423FC13BF00877A52 /* big_mod.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = big_mod.h; sourceTree = "<group>"; };
+		2063080523FC1BDF00877A52 /* sort__insertion.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__insertion.h; sourceTree = "<group>"; };
+		2063080623FC1D3800877A52 /* sort__selection.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__selection.h; sourceTree = "<group>"; };
+		2063080723FC1E7600877A52 /* sort__bubble.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sort__bubble.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,9 @@
 				2063080223FC116C00877A52 /* gcd.h */,
 				2063080323FC120E00877A52 /* lcm.h */,
 				2063080423FC13BF00877A52 /* big_mod.h */,
+				2063080523FC1BDF00877A52 /* sort__insertion.h */,
+				2063080623FC1D3800877A52 /* sort__selection.h */,
+				2063080723FC1E7600877A52 /* sort__bubble.h */,
 			);
 			path = Template;
 			sourceTree = "<group>";
