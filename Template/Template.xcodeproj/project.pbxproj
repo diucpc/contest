@@ -42,6 +42,21 @@
 		2063080E23FC45BC00877A52 /* huffman.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = huffman.h; sourceTree = "<group>"; };
 		2063080F23FC474100877A52 /* bfs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bfs.h; sourceTree = "<group>"; };
 		2063081023FC48C100877A52 /* dfs.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dfs.h; sourceTree = "<group>"; };
+		2063081123FD2B6700877A52 /* search__binary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = search__binary.h; sourceTree = "<group>"; };
+		2063081223FD2D0E00877A52 /* search__ternary.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = search__ternary.h; sourceTree = "<group>"; };
+		2063081323FD308D00877A52 /* backtracking__knights_tour.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = backtracking__knights_tour.h; sourceTree = "<group>"; };
+		2063081423FD32E300877A52 /* backtracking__rat_in_maze.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = backtracking__rat_in_maze.h; sourceTree = "<group>"; };
+		2063081523FD344500877A52 /* backtracking__n_queen_problem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = backtracking__n_queen_problem.h; sourceTree = "<group>"; };
+		2063081623FD356C00877A52 /* backtracking__m_coloring_problem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = backtracking__m_coloring_problem.h; sourceTree = "<group>"; };
+		2063081723FD37EB00877A52 /* backtracking__hamiltonian_cycle.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = backtracking__hamiltonian_cycle.h; sourceTree = "<group>"; };
+		2063081823FD38E300877A52 /* backtracking__sudoku.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = backtracking__sudoku.h; sourceTree = "<group>"; };
+		2063081923FD3BC800877A52 /* hashing.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = hashing.h; sourceTree = "<group>"; };
+		2063081A23FD3CBC00877A52 /* permutation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = permutation.h; sourceTree = "<group>"; };
+		2063081B23FD3D6500877A52 /* linked_list.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = linked_list.h; sourceTree = "<group>"; };
+		2063081C23FD3E2E00877A52 /* graph.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graph.h; sourceTree = "<group>"; };
+		2063081D23FD3EB100877A52 /* modular_inverse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = modular_inverse.h; sourceTree = "<group>"; };
+		2063081E23FD3F0A00877A52 /* factorial.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = factorial.h; sourceTree = "<group>"; };
+		2063081F23FDAC4300877A52 /* linear_equation__matrix_inverse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = linear_equation__matrix_inverse.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +107,21 @@
 				2063080E23FC45BC00877A52 /* huffman.h */,
 				2063080F23FC474100877A52 /* bfs.h */,
 				2063081023FC48C100877A52 /* dfs.h */,
+				2063081123FD2B6700877A52 /* search__binary.h */,
+				2063081223FD2D0E00877A52 /* search__ternary.h */,
+				2063081323FD308D00877A52 /* backtracking__knights_tour.h */,
+				2063081423FD32E300877A52 /* backtracking__rat_in_maze.h */,
+				2063081523FD344500877A52 /* backtracking__n_queen_problem.h */,
+				2063081623FD356C00877A52 /* backtracking__m_coloring_problem.h */,
+				2063081723FD37EB00877A52 /* backtracking__hamiltonian_cycle.h */,
+				2063081823FD38E300877A52 /* backtracking__sudoku.h */,
+				2063081923FD3BC800877A52 /* hashing.h */,
+				2063081A23FD3CBC00877A52 /* permutation.h */,
+				2063081B23FD3D6500877A52 /* linked_list.h */,
+				2063081C23FD3E2E00877A52 /* graph.h */,
+				2063081D23FD3EB100877A52 /* modular_inverse.h */,
+				2063081E23FD3F0A00877A52 /* factorial.h */,
+				2063081F23FDAC4300877A52 /* linear_equation__matrix_inverse.h */,
 			);
 			path = Template;
 			sourceTree = "<group>";
