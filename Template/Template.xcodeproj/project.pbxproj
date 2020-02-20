@@ -23,6 +23,13 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		200F38B723FE486B0075789F /* c__lib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = c__lib.h; sourceTree = "<group>"; };
+		200F38B823FE562E0075789F /* costant.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = costant.h; sourceTree = "<group>"; };
+		200F38B923FE56920075789F /* math__tricks.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = math__tricks.h; sourceTree = "<group>"; };
+		200F38BA23FE575A0075789F /* prime_factor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prime_factor.h; sourceTree = "<group>"; };
+		200F38BB23FE58940075789F /* ab_mod_p.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ab_mod_p.h; sourceTree = "<group>"; };
+		200F38BC23FE598F0075789F /* graph_rep.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = graph_rep.h; sourceTree = "<group>"; };
+		200F38BD23FE5CC30075789F /* prims__algo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = prims__algo.h; sourceTree = "<group>"; };
 		206307F523FC04C000877A52 /* Template */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Template; sourceTree = BUILT_PRODUCTS_DIR; };
 		206307F823FC04C100877A52 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		206307FF23FC04E600877A52 /* leap_year.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = leap_year.h; sourceTree = "<group>"; };
@@ -122,6 +129,13 @@
 				2063081D23FD3EB100877A52 /* modular_inverse.h */,
 				2063081E23FD3F0A00877A52 /* factorial.h */,
 				2063081F23FDAC4300877A52 /* linear_equation__matrix_inverse.h */,
+				200F38B723FE486B0075789F /* c__lib.h */,
+				200F38B823FE562E0075789F /* costant.h */,
+				200F38B923FE56920075789F /* math__tricks.h */,
+				200F38BA23FE575A0075789F /* prime_factor.h */,
+				200F38BB23FE58940075789F /* ab_mod_p.h */,
+				200F38BC23FE598F0075789F /* graph_rep.h */,
+				200F38BD23FE5CC30075789F /* prims__algo.h */,
 			);
 			path = Template;
 			sourceTree = "<group>";
